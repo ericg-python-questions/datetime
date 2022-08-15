@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>17CBC047-428A-42BE-9E5B-02D120AC75CF</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>17CBC047-428A-42BE-9E5B-02D120AC75CF</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va5QCAAAAAAQQMAAAAEYcVCf2/m2EYgTkwIObQiNC
+				sZKT3xPAuLA495gY7zsIkAEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAGVyaWNnAAAADgAA
+				AAEBAABkZXBvdF9wb3N0Z3JlcwAADAAAAAEGAAAQAAAA
+				IAAAADAAAAAIAAAABAMAAPpcAAAAAAAACAAAAAQDAABe
+				rAUAAAAAAAgAAAAEAwAA17CxAAAAAAAMAAAAAQYAAFwA
+				AABsAAAAfAAAAAgAAAAABAAAQcRTo8GBCSMYAAAAAQIA
+				AAIAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAA
+				AQAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6
+				Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACQ
+				gpbnAAAACAAAAAAEAABBxEAH4AAAACQAAAABAQAAQzMy
+				QkNEQkYtMUMxRC00ODI0LUE1Q0ItQTk3NjlERjVFQ0Yw
+				GAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAAB
+				AAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAA
+				AAAQAAAABBAAAEgAAAAAAAAABRAAAIwAAAAAAAAAEBAA
+				ALAAAAAAAAAAQBAAAKAAAAAAAAAAAiAAAHwBAAAAAAAA
+				BSAAAOwAAAAAAAAAECAAAPwAAAAAAAAAESAAADABAAAA
+				AAAAEiAAABABAAAAAAAAEyAAACABAAAAAAAAICAAAFwB
+				AAAAAAAAMCAAAIgBAAAAAAAAAcAAANAAAAAAAAAAEcAA
+				ACAAAAAAAAAAEsAAAOAAAAAAAAAAENAAAAQAAAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/ericg/depot_postgres/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>../</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>depot_postgres</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>

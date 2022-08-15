@@ -1,0 +1,4 @@
+sqlalchemy == 1.2.7
+marshmallow-sqlalchemy == 0.14.0
+psycopg2 == 2.8.6
+toastedmarshmallow == 2.15.2.post1
